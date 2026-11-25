@@ -14,7 +14,7 @@ AI 自己開子代理（幫忙檢查、找檔案、讀資料的小幫手）時�
 - Skill 內容是繁體中文。
 
 ## 取得
-1 美元：https://aquaquest23.gumroad.com/l/yluejk
+購買：https://aquaquest23.gumroad.com/l/yluejk
 
 ## 開發者
 LI WEI，「治理系統 Pro」的開發者。這個 Skill 是在治理系統 Pro 的七步流程下製作，並經過另一個 AI 對話獨立檢查。
@@ -24,4 +24,4 @@ LI WEI，「治理系統 Pro」的開發者。這個 Skill 是在治理系統 Pr
 
 ---
 
-English: A Claude Skill (Traditional Chinese) that picks a suitable Claude model (Opus, Sonnet or Haiku) when the AI launches its own subagents. Used only on Claude Code desktop; no guaranteed savings. Get it for USD 1 on Gumroad: https://aquaquest23.gumroad.com/l/yluejk. Developer: LI WEI, creator of 治理系統 Pro (Governance System Pro). You may use and modify it; any modified or shared copy must keep LICENSE.txt and the line "Original author: LI WEI".
+English: A Claude Skill (Traditional Chinese) that picks a suitable Claude model (Opus, Sonnet or Haiku) when the AI launches its own subagents. Used only on Claude Code desktop; no guaranteed savings. Get it on Gumroad: https://aquaquest23.gumroad.com/l/yluejk. Developer: LI WEI, creator of 治理系統 Pro (Governance System Pro). You may use and modify it; any modified or shared copy must keep LICENSE.txt and the line "Original author: LI WEI".
